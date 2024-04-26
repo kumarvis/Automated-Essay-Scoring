@@ -49,11 +49,11 @@ lgb_params = {
 |--------------------------------------|-------|
 | Matthews Correlation Coefficient (MCC)| 0.67 |
 | Ovell Accuracy                             | 0.61  |
-| Accuracy for class 0                 | 0.22  |
-| Accuracy for class 1                 | 0.72  |
-| Accuracy for class 2                 | 0.68  |
-| Accuracy for class 3                 | 0.59  |
-| Accuracy for class 4                 | 0.34  |
-| Accuracy for class 5                 | 0.06  |
+| Accuracy for class 1                 | 0.22  |
+| Accuracy for class 2                 | 0.72  |
+| Accuracy for class 3                 | 0.68  |
+| Accuracy for class 4                 | 0.59  |
+| Accuracy for class 5                 | 0.34  |
+| Accuracy for class 6                 | 0.06  |
 
 
