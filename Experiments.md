@@ -13,10 +13,6 @@ For all subsequent chunks, only the maximum value among all tokens is considered
 
 Finally, the feature extraction process results in two sets of features:
 
-Got it, here's the refined description:
-
-
-The feature extraction process results in two sets of features:
 
 1. **Token corresponding to CLS:** For the first chunk, the feature corresponds to the token representing `[CLS]`.
    
