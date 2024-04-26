@@ -1,9 +1,6 @@
 
 ## Experiment01:
 
-Thanks for providing clarification. Here's a refined version:
-
----
 
 **Chunking:** The complete essay is first divided into chunks of a specified size, such as `max_words_per_chunk=416`.
 
@@ -18,7 +15,6 @@ Finally, the feature extraction process results in two sets of features:
 
 Got it, here's the refined description:
 
----
 
 The feature extraction process results in two sets of features:
 
